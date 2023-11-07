@@ -1,0 +1,15 @@
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\GuvenEmlak.csproj.AssemblyReference.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\GuvenEmlak.csproj.SuggestedBindingRedirects.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\GuvenEmlak.csproj.GenerateResource.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\GuvenEmlak.csproj.CoreCompileInputs.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb

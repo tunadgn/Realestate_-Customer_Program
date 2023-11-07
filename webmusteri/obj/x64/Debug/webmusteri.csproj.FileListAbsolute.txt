@@ -1,0 +1,9 @@
+C:\Users\Metin\Documents\Visual Studio 2010\Projects\webmusteri\webmusteri\bin\x64\Debug\webmusteri.exe
+C:\Users\Metin\Documents\Visual Studio 2010\Projects\webmusteri\webmusteri\bin\x64\Debug\webmusteri.pdb
+C:\Users\Metin\Documents\Visual Studio 2010\Projects\webmusteri\webmusteri\obj\x64\Debug\webmusteri.Form1.resources
+C:\Users\Metin\Documents\Visual Studio 2010\Projects\webmusteri\webmusteri\obj\x64\Debug\webmusteri.Properties.Resources.resources
+C:\Users\Metin\Documents\Visual Studio 2010\Projects\webmusteri\webmusteri\obj\x64\Debug\webmusteri.exe
+C:\Users\Metin\Documents\Visual Studio 2010\Projects\webmusteri\webmusteri\obj\x64\Debug\webmusteri.pdb
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\bin\x64\Debug\webmusteri.exe.config
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x64\Debug\webmusteri.Form2.resources
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x64\Debug\webmusteri.csproj.GenerateResource.Cache

@@ -1,0 +1,131 @@
+c:\users\metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+c:\users\metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+c:\users\metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+c:\users\metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+c:\users\metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+c:\users\metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csprojResolveAssemblyReference.cache
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.Cache
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\bin\Debug\Interop.WMPLib.dll
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\documents\visual studio 2010\Projects\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+C:\Users\Metin\Desktop\program son yedek\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\Metin\Desktop\program son yedek\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Metin\Desktop\program son yedek\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\Desktop\program son yedek\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+C:\Users\Metin\Desktop\program son yedek\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\Metin\Desktop\program son yedek\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\Metin\Desktop\webmusteri\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\Metin\Desktop\webmusteri\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+C:\Users\Metin\Desktop\webmusteri\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\Metin\Desktop\webmusteri\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\bin\Debug\Interop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.Cache
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\bin\Debug\Interop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+C:\Users\Metin\Desktop\webmusteri - Kopya - Kopya\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.Cache
+F:\05.12.2019\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+F:\05.12.2019\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+F:\05.12.2019\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+F:\05.12.2019\webmusteri\webmusteri\bin\Debug\Interop.WMPLib.dll
+F:\05.12.2019\webmusteri\webmusteri\bin\Debug\AxInterop.WMPLib.dll
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csprojAssemblyReference.cache
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.cache
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+F:\05.12.2019\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\bin\Debug\Interop.WMPLib.dll
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.ResolveComReference.cache
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\Laptop\Desktop\Visual Studio\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\st\Desktop\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\st\Desktop\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+C:\Users\st\Desktop\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.AssemblyReference.cache
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.cache
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.CoreCompileInputs.cache
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\st\Desktop\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.AssemblyReference.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form1.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form2.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form3.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form4.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Form5.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.Properties.Resources.resources
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.GenerateResource.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.csproj.CoreCompileInputs.cache
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.exe
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\obj\x86\Debug\webmusteri.pdb
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\bin\Debug\webmusteri.exe.config
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\bin\Debug\webmusteri.exe
+C:\Users\st\Desktop\HEPSİ\webmusteri\webmusteri\bin\Debug\webmusteri.pdb
